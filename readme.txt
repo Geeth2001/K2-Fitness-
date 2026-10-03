@@ -18,10 +18,10 @@ Website sections
 
 Opening hours
 -------------
-Monday to Friday: 5.30 a.m - 10.00 p.m
-Saturday:         5.30 a.m - 10.00 p.m
+Monday to Friday: 6.30 a.m - 10.00 p.m
+Saturday:         7.30 a.m - 10.00 p.m
 Sunday:           8.00 a.m - 8.00 p.m
-Poyaday:          Closed
+Poya day:         Closed
 
 Contact
 -------
@@ -43,4 +43,5 @@ Technical notes
 The website uses HTML, CSS, JavaScript, Bootstrap, and a PHP contact form
 handler. PHP hosting and the contact form mail settings must be configured for
 server-side form processing.
+
 
